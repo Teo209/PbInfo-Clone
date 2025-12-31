@@ -1,5 +1,5 @@
 # PbInfo-Clone
-
+Note that this version runs locally and does not include a web interface, which will be added in the future.
 
 ## Instructions
 1. Add the problem's text in <code>problem.md</code> (__optional__)
