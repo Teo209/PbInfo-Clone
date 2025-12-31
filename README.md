@@ -10,4 +10,9 @@
 6. Run <code>./test.sh</code>
 
 
-## Compiling
+### Compiling
+The Makefile is preconfigured for Linux.
+Available commands are:
+- make -> Compiles and links main.cpp
+- make clean -> Removes the Generated Files
+- make run -> Compiles, links and then runs the executable
